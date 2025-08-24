@@ -29,7 +29,7 @@ Sharing insight
 - **Dimensions**: Date, Customer, Product, Category, Region, Order Status.
 
 ## Visuals
-![Sales by Category](Assets/ECOMMERCE SALES DASHBOARD.png)
+![Sales by Category](Assets/ECOMMERCE_SALES_DASHBOARD.png)
 ![Sales by Category](ecomm_report_assets/sales_by_category.png)
 ## Summary Insights
 - This section summarizes the key observations from the visuals above.
